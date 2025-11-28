@@ -1,0 +1,5 @@
+esc, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12
+backspace, insert, home, page up, num lock
+tab, delete, end, page down, caps lock, shift, right shift
+ctrl, left windows, alt, space, alt gr, menu, right ctrl, right alt
+q, w, e, r, t, y, u, i, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m
